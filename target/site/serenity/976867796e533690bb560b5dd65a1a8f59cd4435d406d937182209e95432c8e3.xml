@@ -1,0 +1,64 @@
+<acceptance-test-run title="Configurar barrio" name="configurarBarrio" steps="9" successful="9" failures="0" skipped="0" ignored="0" pending="0" result="SUCCESS" duration="31809" timestamp="2019-07-26T22:55:32.042-05:00" session-id="6ad0bb0c-82a1-442c-aee8-7a7d546163a3" test-source="JUnit">
+  <user-story id="sounddown.epa.features.SerenityAppiumTest" name="Serenity appium test" path="sounddown.epa.features"/>
+  <tags>
+    <tag name="Serenity appium test" type="story"/>
+  </tags>
+  <test-step result="SUCCESS" duration="7375">
+    <screenshots>
+      <screenshot image="94f7ebf309ad4737009a50978ad476e5.png"/>
+    </screenshots>
+    <description>Seleccionar configuracion</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="3184">
+    <screenshots>
+      <screenshot image="9bf29ac2fc8fdc86f80c14582cf61ccd.png"/>
+      <screenshot image="2e9dd1323733e754c355f2317329250c.png"/>
+    </screenshots>
+    <description>Seleccionar barra de buscador</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="2851">
+    <screenshots>
+      <screenshot image="c8f46f80625fcb57ef55f4706a9b718d.png"/>
+      <screenshot image="c6f3d8bed81c9113278f4ac5a312a20d.png"/>
+    </screenshots>
+    <description>Ingresar nombre de barrio a buscar: chambacu</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="3082">
+    <screenshots>
+      <screenshot image="c81045da92db2f01999f2be9a8d474a3.png"/>
+    </screenshots>
+    <description>Seleccionar barrio</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="2337">
+    <screenshots>
+      <screenshot image="d386421a6f17ff583e0df4042d271279.png"/>
+    </screenshots>
+    <description>Seleccionar menu de zonas</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="2306">
+    <screenshots>
+      <screenshot image="c3fd444af1c843b01cf1af5489d41460.png"/>
+    </screenshots>
+    <description>Seleccionar zona comercial</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="2489">
+    <screenshots>
+      <screenshot image="1aecfbb3680b3985a3c444b2e7d9544a.png"/>
+    </screenshots>
+    <description>Guardar configuracion</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="2444">
+    <screenshots>
+      <screenshot image="57cb82c608ac18acc697cf762cde2026.png"/>
+      <screenshot image="d4c101829b40a8a717ad28aa9405e369.png"/>
+    </screenshots>
+    <description>Confirmar la configuracion</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="3771">
+    <screenshots>
+      <screenshot image="6589d2f29c257ba9eef6e37517132990.png"/>
+      <screenshot image="a8c0f928d606890b153e1f3dbf111e9b.png"/>
+    </screenshots>
+    <description>Salir de configuracion despues de mensaje de exito</description>
+  </test-step>
+</acceptance-test-run>

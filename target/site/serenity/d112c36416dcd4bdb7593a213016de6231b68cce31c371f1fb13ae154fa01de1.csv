@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Serenity appium test","Configurar barrio","SUCCESS","2019-07-07T18:10:24.785-05:00","0.0","37.42"
+"Serenity appium test","Configurar barrio sin internet","SUCCESS","2019-07-07T18:11:06.078-05:00","0.0","23.19"
+"Serenity appium test","Ver notificacion","SUCCESS","2019-07-07T18:10:07.620-05:00","0.0","14.47"

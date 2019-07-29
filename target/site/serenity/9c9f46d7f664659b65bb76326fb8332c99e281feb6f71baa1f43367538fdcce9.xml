@@ -1,0 +1,37 @@
+<acceptance-test-run title="Configurar barrio sin internet" name="configurarBarrioSinInternet" steps="5" successful="5" failures="0" skipped="0" ignored="0" pending="0" result="SUCCESS" duration="25790" timestamp="2019-07-26T22:56:08.644-05:00" session-id="6b378e83-ba4a-421b-9038-a1299e5fb4bb" test-source="JUnit">
+  <user-story id="sounddown.epa.features.SerenityAppiumTest" name="Serenity appium test" path="sounddown.epa.features"/>
+  <tags>
+    <tag name="Serenity appium test" type="story"/>
+  </tags>
+  <test-step result="SUCCESS" duration="12569">
+    <screenshots>
+      <screenshot image="2769a21920e1ef5f307bd43b7b72955d.png"/>
+    </screenshots>
+    <description>Mensaje de problemade acceso a internet</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="4083">
+    <screenshots>
+      <screenshot image="787dd50820fd1ac1b5251d941eb726f5.png"/>
+    </screenshots>
+    <description>Aceptar mensaje de problemade acceso a internet</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="2680">
+    <screenshots>
+      <screenshot image="2d55ff09cd98324b0138b4917ec639b6.png"/>
+    </screenshots>
+    <description>Seleccionar configuracion</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="2491">
+    <screenshots>
+      <screenshot image="31a6cc9ff8fb5d7be2c8bf401f216355.png"/>
+      <screenshot image="6ec45a9c86c0ea9d599ad63909f9741e.png"/>
+    </screenshots>
+    <description>Mensaje de error de cargar</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="2958">
+    <screenshots>
+      <screenshot image="6ec45a9c86c0ea9d599ad63909f9741e.png"/>
+    </screenshots>
+    <description>Aceptar mensaje de error de cargar</description>
+  </test-step>
+</acceptance-test-run>

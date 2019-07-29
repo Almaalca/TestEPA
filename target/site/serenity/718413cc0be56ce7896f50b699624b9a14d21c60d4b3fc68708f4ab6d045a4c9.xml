@@ -1,0 +1,25 @@
+<acceptance-test-run title="Ver notificacion" name="verNotificacion" steps="3" successful="3" failures="0" skipped="0" ignored="0" pending="0" result="SUCCESS" duration="17421" timestamp="2019-07-26T22:55:10.165-05:00" session-id="0e4eb9cb-a6c1-4eb4-ad1f-b7e392e32311" test-source="JUnit">
+  <user-story id="sounddown.epa.features.SerenityAppiumTest" name="Serenity appium test" path="sounddown.epa.features"/>
+  <tags>
+    <tag name="Serenity appium test" type="story"/>
+  </tags>
+  <test-step result="SUCCESS" duration="9640">
+    <screenshots>
+      <screenshot image="b1dd096e9f277af5c742e75265c8cd4e.png"/>
+    </screenshots>
+    <description>Seleccionar notificacion</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="3937">
+    <screenshots>
+      <screenshot image="be9ecb777bef4645f5b74d8dd7dd3993.png"/>
+    </screenshots>
+    <description>Presionar en el boton de ver ubicacion</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="2893">
+    <screenshots>
+      <screenshot image="efd72851366df04eb94451f9fa12ee21.png"/>
+      <screenshot image="fca20f85c21a8fe4162afc7f50b1dede.png"/>
+    </screenshots>
+    <description>Presionar en el boton de mapa predeterminado</description>
+  </test-step>
+</acceptance-test-run>
